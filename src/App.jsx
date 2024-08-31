@@ -29,10 +29,7 @@ const App = () => {
           macbook pro.
         </h3>
         <h5>Oh so pro !</h5>
-        <p className="text-center w-3/4 ">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum omnis
-          dolor earum eveniet.
-        </p>
+        <p className="text-center w-3/4 ">Scroll the ScrollBar to see magic!</p>
       </div>
       <Canvas camera={{ fov: 12, position: [0, -10, 220] }}>
         <OrbitControls />
